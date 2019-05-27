@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Garage</string>
+    <string name="pesquisar_oficina">Buscar por oficina</string>
+    <string name="categorias">Categorias</string>
+    <string name="oficinas">Oficinas</string>
+    <string name="cadastro">Cadastrar</string>
+    <string name="fazer_um_cadastro">Fazer um Cadastro</string>
+    <string name="name">Nome</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone">Telefone</string>
+    <string name="password">Senha</string>
+    <string name="list_users">Listar Usuários</string>
+    <string name="create_user">Cadastrar Usuários</string>
+    <string name="wait">Aguarde...</string>
+</resources>
